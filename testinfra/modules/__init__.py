@@ -22,6 +22,7 @@ modules = {
     'command': 'command:Command',
     'file': 'file:File',
     'group': 'group:Group',
+    'hosts': 'hosts:Hosts',
     'interface': 'interface:Interface',
     'mount_point': 'mountpoint:MountPoint',
     'package': 'package:Package',
